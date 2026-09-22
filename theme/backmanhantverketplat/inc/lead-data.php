@@ -18,7 +18,6 @@ return array(
 		array( 'Vi anlitade Jimmy (Hantverket Plattsättning) för ca 1,5 år sedan i och med att vi behövde totalrenovera hela vårat badrum i en brf. Jimmy skötte hela entreprenaden och all kommunikation med underleverantörer. Badrummet blev precis som vi ville (och lite bättre). God kommunikation, lyhörd och lösningsorienterad - trots ', 'Felix Ahlberg', 'för 2 år sedan' ),
 		array( 'Vi anlitade Bäckman Hantverket för renovering av vårt badrum. Så nöjda med slutresultatet. Jimmi och samtliga hantverkare var lyhörda, noggranna och väldigt trevliga. Jag är nog en väldigt kräsen och omständig beställare men Jimmi såg alltid till att komma med bra förslag och lösningar som gjorde mig mer än nöjd. Kan v', 'Johanna Remstrand', 'för 2 år sedan' ),
 	),
-	'bild_hero'      => 'foto-1.jpg',
-	'bilder'         => array( 'foto-2.jpg', 'foto-3.jpg', 'foto-4.jpg' ),
+	'bild_hero'      => 'foto-4.jpg',
 	'ar_riktig'      => true,
 );
