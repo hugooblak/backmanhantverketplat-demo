@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Bäckman Hantverket Plattsättning AB',
+	'bransch'        => 'Byggföretag',
 	'telefon'        => '073-980 11 34',
 	'telefon_tel'    => '+46739801134',
 	'ort'            => 'Johanneshov',
